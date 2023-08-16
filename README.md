@@ -1,5 +1,3 @@
-# Descomplicando Kubernetes
-
 # Instalar kubectl
 
 ```
